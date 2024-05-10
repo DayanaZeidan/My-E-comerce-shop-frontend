@@ -4,7 +4,7 @@ import './Contact.css'
 function Contact() {
   return (
     <div className='contact'>
-        <h1>Get Exclusive Offers On Your Email</h1>
+        <h1>Get Exclusive</h1>
         <p>Subscribe and stay updated</p>
         <div>
             <input type='email' placeholder='Your Email id'/>
